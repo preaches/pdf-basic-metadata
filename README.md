@@ -24,16 +24,10 @@ Currently supports the following metadata fields:
 
 ## Installation
 1. **Clone or Download:**
-   - Grab the script from this repository (e.g., `pdf_metadata_handler.py`).
-   - Optionally, download the `requirements.txt` file too.
+   - Grab the script from this repository (e.g., `pdf_metadata.py`).
 
 2. **Install Dependencies:**
    - You’ll need Python 3.x installed.
-   - Run this command in your terminal to install the required library:
-     ```bash
-     pip install -r requirements.txt
-     ```
-   - Or, if you just have the script:
      ```bash
      pip install PyPDF2
      ```
@@ -44,4 +38,4 @@ Currently supports the following metadata fields:
 ## Usage
 1. **Run the Script:**
    ```bash
-   python pdf_metadata_handler.py
+   python pdf_metadata.py
